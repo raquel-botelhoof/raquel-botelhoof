@@ -1,5 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=RaquelBotelhoof&color=blueviolet)
 
+<img width="1200" height="120" alt="image" src="https://github.com/user-attachments/assets/abcb1cfa-3921-4d5c-a987-1752eecb2630" />
+
+
 [![Poster with background image of a galaxy in the colours purple and blue with animated sparkling stars, drawing of a ballerina and a cat in the left, the text in the center, and Linkedin url on the top right](poster_galaxy-2.gif)](https://www.linkedin.com/in/raquel-botelho-2a0ab816a/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=da70d6&size=22&center=true&vCenter=true&width=1000&lines=HELLO!,+my+name+is+Raquel+Botelho;I+live+in+Brazil+and+in+love+with+technology;Thanks+for+visiting!!!+:%29)](https://git.io/typing-svg)
