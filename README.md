@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raquel-botelhoof/Raquel_Botelhoof/output/snake-galaxy.svg" alt="Snake animation" width="800"/>
+  <img src="https://raw.githubusercontent.com/raquel-botelhoof/raquel-botelhoof/output/snake-galaxy.svg" alt="Snake animation" width="800"/>
 </p>
 
 ---
